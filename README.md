@@ -37,6 +37,9 @@ A simple yet efficient **Student Management System** built using **Spring Boot, 
    ```
    http://localhost:8080/students
    ```
+## Project Demo
+
+https://github.com/user-attachments/assets/6843cc08-f4b2-49ee-b02e-e05859e3210c
 
 ## API Endpoints
 | HTTP Method | Endpoint         | Description          |
